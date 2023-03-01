@@ -4,7 +4,7 @@
 
 **Meu desafio:** Utilizar o conhecimento que adquiri com a série de tutoriais [HTML para iniciantes](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6OlAwitnFUubtE93DO-l0vu) para criar um site para a Little Taco Shop.
 
-Este projeto é um website simples para um restaurante de tacos que aplica HTML semântico, CSS responsivo moderno e SASS. Também foram aplicados os conceitos de B.E.M para um código limpo e organizado.
+Este projeto é um website simples para um restaurante de tacos que aplica HTML semântico, CSS responsivo moderno e o pré-processador SASS. Também foram aplicados os conceitos de B.E.M para um código limpo e organizado.
 
 Gostaria de agradecer ao Freecodecamp e ao Dave Gray por fornecer este conteúdo educacional.
 
