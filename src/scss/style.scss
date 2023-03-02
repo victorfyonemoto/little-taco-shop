@@ -33,21 +33,21 @@ textarea {
     /* COLORS */
     --BGCOLOR: hsl(39, 100%, 50%);
     --BGFADE: hsl(39, 100%, 75%) ;
-    --BGIMAGE: linear-gradient(to bottom, var(--BGCOLOR), var(--BGFADE));
-    --BGRESPONSIVE-COLOR: #FFF;
-    --BODY-BGCOLOR: #FFF;
+    --BGIMAGE: linear-gradient(to top, var(--BGCOLOR), var(--BGFADE));
+    --BGRESPONSIVE-COLOR: whitesmoke;
+    --BODY-BGCOLOR: whitesmoke;
     --BORDER-COLOR: #333;
-    --BUTTON-COLOR: #FFF;
+    --BUTTON-COLOR: whitesmoke;
     --FONT-COLOR: #000;
     --HEADER-BGCOLOR: #000;
-    --HEADER-COLOR: #FFF;
+    --HEADER-COLOR: whitesmoke;
     --HERO-BGCOLOR: rgba(51, 178, 51, 0.75);
-    --HERO-COLOR: #FFF;
+    --HERO-COLOR: whitesmoke;
     --HIGHLIGHT-COLOR: rgb(51, 178, 51);
     --LINK-ACTIVE: hsl(39, 100%, 50%);
     --LINK-COLOR: #000;
     --LINK-HOVER: rgb(51, 178, 51);
-    --NAV-BGCOLOR: #FFF;
+    --NAV-BGCOLOR: whitesmoke;
 
     /* BORDERS */
     --BORDERS: 1px solid var(--BORDER-COLOR);
@@ -129,7 +129,7 @@ a:active {
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: white;
+    background-color: whitesmoke;
     border-radius: 5px;
 }
 
