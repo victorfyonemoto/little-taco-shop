@@ -33,7 +33,7 @@ textarea {
     /* COLORS */
     --BGCOLOR: hsl(39, 100%, 50%);
     --BGFADE: hsl(39, 100%, 75%) ;
-    --BGIMAGE: linear-gradient(to top, var(--BGCOLOR), var(--BGFADE));
+    --BGIMAGE: linear-gradient(to bottom, var(--BGCOLOR), var(--BGFADE));
     --BGRESPONSIVE-COLOR: whitesmoke;
     --BODY-BGCOLOR: whitesmoke;
     --BORDER-COLOR: #333;
